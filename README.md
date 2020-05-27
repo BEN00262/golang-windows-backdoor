@@ -2,7 +2,7 @@
 This is a backdoor created with golang its not FUD will be working on it later
 
 ### compiling and running
-to compile just **_run make in the folder where the Makefile is located_** or if you dont have a make run **_go build -ldflags="-s -w -H=windowsgui" advancedrat.go_** and for the master **_go build -ldflags="-s -w" master.go_**
+to compile just **_run make in the folder where the Makefile is located_** or if you dont have a make run **_go build -ldflags="-s -w -H=windowsgui" advancedrerverseshell.go_** and for the master **_go build -ldflags="-s -w" master.go_**
 
 ### design of the RAT
 the RAT uses UAC bypass techniques to render an admin cmd.exe
