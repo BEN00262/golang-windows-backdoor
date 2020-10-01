@@ -9,7 +9,7 @@ the RAT uses UAC bypass techniques to render an admin cmd.exe
 the traffic is **tls wrapped** to provide some security on the communications
 
 ### Issues
-On disconnecting the master the client does not reconnect back until the client is restarted again **will solve this on the next upload**
+On disconnecting the master the client does not reconnect back until the client is restarted again **will solve this on the next update**
 
 ### supported platform
 The RAT only works on windows platforms (x64) but the master can be compiled and run from anywhere 
